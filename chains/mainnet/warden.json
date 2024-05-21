@@ -1,0 +1,19 @@
+{
+  "chain_name": "Warden-Testnet",
+  "coingecko": "",
+  "api": ["https://warden-api.incentived.org"],
+  "rpc": ["https://warden-rpc.incentived.org"],
+  "snapshot_provider": "",
+  "sdk_version": "0.47.4",
+  "coin_type": "118",
+  "min_tx_fee": "0",
+  "addr_prefix": "warden",
+  "logo": "/logos/warden.svg",
+  "assets": [{
+    "base": "uward",
+    "symbol": "WARD",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "/logos/warden.svg"
+  }]
+}

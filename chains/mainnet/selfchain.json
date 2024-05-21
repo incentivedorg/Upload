@@ -1,0 +1,19 @@
+{
+  "chain_name": "Selfchain-Testnet",
+  "coingecko": "",
+  "api": ["https://selfchain.api.t.stavr.tech"],
+  "rpc": ["https://rpc-t.self.nodestake.top"],
+  "snapshot_provider": "",
+  "sdk_version": "0.47.4",
+  "coin_type": "118",
+  "min_tx_fee": "0",
+  "addr_prefix": "selfchain",
+  "logo": "/logos/selfchain.png",
+  "assets": [{
+    "base": "uself",
+    "symbol": "SELF",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "/logos/selfchain.png"
+  }]
+}

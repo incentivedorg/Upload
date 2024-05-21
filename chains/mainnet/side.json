@@ -1,0 +1,19 @@
+{
+  "chain_name": "Side-Testnet-3",
+  "coingecko": "",
+  "api": ["https://side.api.t.stavr.tech"],
+  "rpc": ["https://side-testnet-rpc.nodesync.top"],
+  "snapshot_provider": "",
+  "sdk_version": "0.47.4",
+  "coin_type": "118",
+  "min_tx_fee": "0",
+  "addr_prefix": "side",
+  "logo": "/logos/side.png",
+  "assets": [{
+    "base": "uside",
+    "symbol": "SIDE",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "/logos/side.png"
+  }]
+}

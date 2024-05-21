@@ -1,0 +1,19 @@
+{
+  "chain_name": "Galactica-Testnet",
+  "coingecko": "",
+  "api": ["https://galactica-api.incentived.org"],
+  "rpc": ["https://galactica-rpc.incentived.org"],
+  "snapshot_provider": "",
+  "sdk_version": "0.47.4",
+  "coin_type": "118",
+  "min_tx_fee": "0",
+  "addr_prefix": "galactica",
+  "logo": "/logos/galactica.jpg",
+  "assets": [{
+    "base": "agnet",
+    "symbol": "GNET",
+    "exponent": "18",
+    "coingecko_id": "",
+    "logo": "/logos/galactica.jpg"
+  }]
+}

@@ -1,0 +1,19 @@
+{
+  "chain_name": "Alignedlayer-Testnet",
+  "coingecko": "",
+  "api": ["https://alignedlayer-api.incentived.org/","https://api-node.alignedlayer.com"],
+  "rpc": ["https://alignedlayer-rpc.incentived.org/","https://rpc-node.alignedlayer.com"],
+  "snapshot_provider": "",
+  "sdk_version": "0.47.4",
+  "coin_type": "118",
+  "min_tx_fee": "0",
+  "addr_prefix": "alignedlayer",
+  "logo": "/logos/aligned.png",
+  "assets": [{
+    "base": "stake",
+    "symbol": "AL",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "/logos/aligned.png"
+  }]
+}
